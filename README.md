@@ -6,9 +6,10 @@ I’m a passionate software developer who loves building web applications that s
 Currently working as an Associate Software Engineer at Eurofins IT.
 
 ## 💼 Featured Projects
-- 💰 **CashFlow**
-  *Description:* A Java Full Stack personal finance management app that helps users track income, expenses, and budgets. Built using Spring Boot, React, and MySQL, it features user authentication, expense categorization, and interactive dashboards for financial insights.
-🧩 *Tech Stack:* Spring Boot | React | MySQL | REST API | JWT | CSS
+- 💰 **CashFlow**  
+*Description:* A Java Full Stack personal finance management app that helps users track income, expenses, and budgets.  
+It features user authentication, expense categorization, and interactive dashboards for financial insights.  
+*Tech Stack:* Spring Boot | React Native | PostgreSQL | REST API | JWT | Tailwind CSS  
 
 - 🔒 **BookMyStage Admin Dashboard**  
   *Role:* Collaborator – Full Stack Developer  
